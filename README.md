@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Nishita 👋
+
+- I’m currently learning Node and Docker 🌱
+- Reach out at - <a href="https://www.linkedin.com/in/nishita-vaddem/"><img align="center" width="30px" src="https://img.icons8.com/fluent/48/4a90e2/linkedin.png" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishitav19&theme=vision-friendly-dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishitav19&layout=compact&theme=vision-friendly-dark&hide=Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**nishitav19/nishitav19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
